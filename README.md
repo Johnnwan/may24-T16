@@ -1,2 +1,5 @@
 # may24-T16
-Capstone Project for AI300
+Capstone Project for
+
+Team Member: Johnathan Wan, Khoo Zhi
+
